@@ -10,7 +10,7 @@
 
 4. Push the changes to GitHub or GitLab.
 
-![surfs-up.png](Images/surfs-up.png)
+![surfs-up.png](SurfsUp/Images/surfs-up.png)
 
 ## Instructions
 
@@ -46,7 +46,7 @@ To perform an analysis of precipitation in the area, do the following:
 
 * Plot the results by using the DataFrame `plot` method, as shown in the following image:
 
-  ![precipitation](Images/precipitation.png)
+  ![precipitation](SurfsUp/Images/precipitation.png)
 
 * Use Pandas to print the summary statistics for the precipitation data.
 
@@ -74,7 +74,7 @@ To perform an analysis of stations in the area, do the following:
 
     * Plot the results as a histogram with `bins=12`, as shown in the following image:
 
-    ![station-histogram](Images/station-histogram.png)
+    ![station-histogram](SurfsUp/Images/station-histogram.png)
 
 * Close out your session.
 
@@ -162,7 +162,7 @@ Complete the following steps:
 
     * Use the peak-to-peak (TMAX-TMIN) value as the _y_ error bar (YERR).
 
-    ![temperature](Images/temperature.png)
+    ![temperature](SurfsUp/Images/temperature.png)
 
 #### Daily Rainfall Average
 
@@ -192,7 +192,7 @@ Complete the following steps:
 
 * Use Pandas to plot an area plot (`stacked=False`) for the daily normals, as shown in the following image:
 
-  ![daily-normals](Images/daily-normals.png)
+  ![daily-normals](SurfsUp/Images/daily-normals.png)
 
 * Close out your session.
 
